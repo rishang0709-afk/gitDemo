@@ -1,0 +1,14 @@
+git config --global user.name "rishang0709-afk"
+git config --global user.email "rishang0709@gmail.com"
+git config --global color.ui auto
+
+>> Mandatory Commands
+   git init
+   git remote add origin https://github.com/rishang0709-afk/gitDemo.git
+   git pull origin main 
+   git status
+
+   git add .
+   git status
+   git commit -m "Commit Message"
+   git push
